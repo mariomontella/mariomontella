@@ -17,7 +17,7 @@ Hi there, I'm Mario!👋
     
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mariomontella&theme=highcontrast&show_icons=true&count_private=true)
 
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomontella&layout=compact) -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomontella&layout=compact) 
 
 
 ## 🔧 Skills
@@ -38,7 +38,7 @@ Hi there, I'm Mario!👋
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats -->
 
 
 </div>
