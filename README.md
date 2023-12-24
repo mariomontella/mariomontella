@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mario Montella
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mario.
 ======================================================================================================================================
 
 Software Engineer
@@ -28,3 +28,6 @@ I love exploring the world of programming and closely following the latest techn
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mariomontella"><img src="https://github-readme-stats.vercel.app/api?username=mariomontella&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="mariomontella's GitHub stats" /></a>
+
+
+<a href="https://app.daily.dev/networkmario"><img src="https://api.daily.dev/devcards/df1888f18f1c4c6b963c8260dc5b181e.png?r=u0q" width="400" alt="Network Mario's Dev Card"/></a>
