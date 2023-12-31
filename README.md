@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mario Montella
 ======================================================================================================================================
 
-Software Engineer
+Software Engineering
 -----------------
 
 I love exploring the world of programming and closely following the latest technology trends. With the combination of creativity and technical skill, I am always looking for new challenges and exciting projects.
