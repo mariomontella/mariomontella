@@ -7,7 +7,7 @@ Software Engineer
 I love exploring the world of programming and closely following the latest technology trends. With the combination of creativity and technical skill, I am always looking for new challenges and exciting projects.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [MyWebSpace](http://networkmario.com)
+//* 🖥️  See my portfolio at [MyWebSpace](http://networkmario.com)
 * ✉️  You can contact me at [networkmario2.0@gmail.com](mailto:networkmario2.0@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
