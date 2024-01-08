@@ -10,7 +10,7 @@ I love exploring the world of programming and closely following the latest techn
 * ✉️  You can contact me at [networkmario2.0@gmail.com](mailto:networkmario2.0@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://app.daily.dev/networkmario"><img src="https://api.daily.dev/devcards/df1888f18f1c4c6b963c8260dc5b181e.png?r=uq9" width="400" alt="Network Mario's Dev Card"/></a>
+
 
 ### Skills
 
