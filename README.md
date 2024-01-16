@@ -1,6 +1,16 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://firebasestorage.googleapis.com/v0/b/portfolio-as-39431.appspot.com/o/bg.jpeg?alt=media&token=15206dc5-fac4-401e-a130-c0847e731b1f"  />
-</div>
+</div> -->
+
+
+
+###
+
+<br clear="both">
+
+<h1 align="center">Hi there 👋, I'm Mario</h1>
+
+###
 
 ###
 
@@ -19,14 +29,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Hi there 👋, I'm Mario</h1>
-
-###
 
 <h3 align="left">About Me</h3>
 
