@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm from Italy<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I study continuously<br>- ⚡ In my free time I write code 😁</p>
+<p align="left">I'm from Italy<br><br>- 🔭 I’m working as Software Engineer<br>-</p>
 
 ###
 
