@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm from Italy<br><br>- 🔭 I’m working as Software Engineer<br>-</p>
+<p align="left">I'm from Italy<br><br>- 🔭 I’m working as Software Engineer<br></p>
 
 ###
 
